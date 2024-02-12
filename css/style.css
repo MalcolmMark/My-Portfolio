@@ -262,3 +262,14 @@
   border-radius: 50%;
   text-align: center;
 }
+
+.layer a{
+  color: #ff004f;
+  margin-top: 20px;
+  text-align: center;
+  background: fixed;
+  width: 60px;
+  height: 60px;
+  border: radius 30%;
+  
+}
