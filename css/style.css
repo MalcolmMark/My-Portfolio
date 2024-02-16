@@ -238,9 +238,9 @@
   bottom: 0;
   overflow: hidden;
   display: flex;
-  align-content: center;
+  align-items: center;
   flex-direction: column;
-  padding: 0 40px;
+  padding: 80px 40px;
   text-align: center;
   font-size: 14px;
 }
@@ -250,7 +250,15 @@
   margin-bottom: 20px;
 }
 
-/* 
-
-*/
-
+.layer a{
+  margin-top: 20px;
+  color: #ff004f;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 60px;
+  background: #fff;
+  width: 60px;  
+  height: 60px;
+  border-radius: 50%;
+  text-align: center;
+}
